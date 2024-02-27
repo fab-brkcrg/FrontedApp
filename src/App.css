@@ -6,7 +6,11 @@
   max-width: 600px;
   margin: auto;
 }
-
+.custom-textfield {
+  color: blue; /* Yazı rengi */
+  background-color: lightgray; /* Arka plan rengi */
+  /* Diğer CSS özellikleri... */
+}
 /* Tüm TextField elemanları için genel stil */
 .MuiTextField-root {
   margin-bottom: auto;
